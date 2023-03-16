@@ -29,10 +29,3 @@ kubectl apply -f k8s.yaml
 ```
 oc apply -f k8s.yaml
 ```
-
-## Contact
-
-Jason Everett
-
-- https://github.com/ijason
-- http://twitter.com/ijayson66
